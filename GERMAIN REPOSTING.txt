@@ -1,0 +1,184 @@
+<div class="custom-h1">Global Template code</div>
+<!--------- BEGIN HERE --------->
+	 
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>  
+
+  <!-- Section 1 | Full -->
+<div class="SC-Custom_H1">Who to Sell My Car To</div>
+
+<div class="row">&nbsp;</div>  
+
+<!--START INTRO BANNER IMAGE-->
+	<div class="SC-introTempateImage">
+		<img src="________DESKTOP________" class="SC-desktopImg" />
+    <img src="________MOBILE_________" class="SC-mobileImg" />
+	</div>
+	<!--END INTRO BANNER IMAGE--> &nbsp; 
+
+<div class="SC-Full_Section_Container SC-LightGrey_BG SC_clearfix SC-Text_Center">
+	<div class="SC-P_Text"><p>As you search for who to sell your car to, it&rsquo;s important to weigh your options and take the necessary steps to ensure a seamless selling experience. By doing so, you not only make the process easier for yourself&mdash;but you can greatly enhance the price your vehicle sells for.</p>
+<p>Below, we&rsquo;ve compiled all the need-to-know information to make your car-selling experience as easy as possible. Plus, we&rsquo;re happy to help provide clarity as you prep your car for sale&mdash;so reach out to us to learn more!</p></div>
+</div>  
+&nbsp;  
+  <!-- Section 1 | Full -->	 
+
+  <!-- Section 2 | Image right-->
+  <div class="SC-Full_Flex_Container">
+    <div class="SC-Half_Flex_Section SC-Primary_BG SC-Half_Flex_Section_Image SC-Flex_Mobile_Flip_1" style="background: url('________LINK________'); background-position: center center; background-repeat: no-repeat; background-size: cover; background-attachment: scroll;"></div>
+    <div class="SC-Half_Flex_Section SC-Primary_BG SC-Flex_Mobile_Flip_2">
+      <div class="SC-Custom_H2">Sell Us Your Car Online</div>
+
+      <div class="SC-Underline_White"></div>
+
+      <div class="SC-P_Text"><p>We make it easy for you to sell your car without having to go through any third-party services or resources. Rather, we&rsquo;re proud to offer our online appraisal tool to simplify the selling process. Simply enter all the necessary information about your vehicle&mdash;things like mileage, condition, and features&mdash;and we&rsquo;ll provide an instant offer.</p>
+<p>When you have your offer, head to our dealership, and our staff will conduct an additional appraisal to verify the vehicle&rsquo;s condition. Once that&rsquo;s complete, you&rsquo;ll have cash in hand!</p></div>
+      &nbsp;
+    </div>
+  </div>
+  <!-- Section 2 | Image right -->
+
+  <!-- Section 3 | Image left -->
+  <div class="SC-Full_Flex_Container">
+    <div class="SC-Half_Flex_Section SC-LightGrey_BG SC-Half_Flex_Section_Image" style="background: url('________LINK________'); background-position: center center; background-repeat: no-repeat; background-size: cover; background-attachment: scroll;"></div>
+
+    <div class="SC-Half_Flex_Section SC-LightGrey_BG">
+      <div class="SC-Custom_H2">Preparing My Used Car for Sale</div>
+      <div class="SC-Underline_Primary"></div>
+      <div class="SC-P_Text"><p>As you look to sell your vehicle, it&rsquo;s important to keep your vehicle in its best condition to further add value. By doing so, you can profit more&mdash;so follow these steps to enhance your cash!</p></div>
+
+      &nbsp;
+    </div>
+  </div>
+  <!-- Section 3 | Image left -->
+
+  <!-- Section 4 | Image right -->
+ <div class="SC-Padded_Flex_Container SC-White_BG SC-Extra_Margin">	
+	<div class="SC-1_Third_Flex_Container SC-LightGrey_BG SC_clearfix">	
+
+			<div class="SC-Custom_H3 SC-Text_Center">Do Research</div>
+			<div class="SC-P_Text SC-Text_Center"><p>Being aware of your vehicle&rsquo;s value is an essential part of the negotiation process. As we discussed above, you can use our online appraisal tool to get an idea of what your vehicle is worth. Additionally, it&rsquo;s worthwhile looking into websites like Kelley Blue Book&reg; to get a clear idea of what you can expect as you negotiate a sale price.</p></div>
+
+	</div>	
+	
+	<div class="SC-1_Third_Flex_Container SC-LightGrey_BG SC_clearfix">	
+				
+			<div class="SC-Custom_H3 SC-Text_Center">Gather All Necessary Paperwork</div>
+			<div class="SC-P_Text SC-Text_Center"><p>No matter how or where you sell your vehicle, you&rsquo;ll need all of the relevant paperwork to complete the sale. This primarily includes the vehicle&rsquo;s bill of sale, title, insurance, and lienholder paperwork, if applicable.</p>
+<p>If your vehicle is currently being financed, you&rsquo;ll want to reach out to your provider to make sure you have all of the correct paperwork to finalize the sale.</p></div>
+
+	</div>
+	
+	<div class="SC-1_Third_Flex_Container SC-LightGrey_BG ">	
+				
+			<div class="SC-Custom_H3 SC-Text_Center">Stay Up to Date with Maintenance Needs</div>
+			<div class="SC-P_Text SC-Text_Center"><p>Appearances matter. It&rsquo;s important to make your vehicle the best it can look&mdash;and that begins by cleaning the vehicle and completing any necessary service or repairs. This could include anything from repairing dents to doing a deep clean of the vehicle&rsquo;s interior.</p>
+<p>If your vehicle needs maintenance, schedule an appointment with our service center. We&rsquo;ll make sure your vehicle is in pristine condition to enhance your sale!</p></div>
+
+	</div>		
+</div>	
+  <!-- Section 4 | Image right -->
+
+-------------
+  <!-- Section 5 | Image right -->
+  <div class="SC-Full_Flex_Container">
+    <div class="SC-Half_Flex_Section SC-Primary_BG SC-Half_Flex_Section_Image SC-Flex_Mobile_Flip_1" style="background: url('________LINK________'); background-position: center center; background-repeat: no-repeat; background-size: cover; background-attachment: scroll;"></div>
+    <div class="SC-Half_Flex_Section SC-Primary_BG SC-Flex_Mobile_Flip_2">
+      <div class="SC-Custom_H2">Benefits of Selling My Car to a Dealership</div>
+      <div class="SC-Underline_White"></div>
+      <div class="SC-P_Text"><p>When you sell us your car, you avoid the middleman. This means you avoid fees for posting a listing on a third-party website, and you avoid having to complete the legalities of a car sale on your own. Rather, our dealership takes care of the entire process behind the scenes as to streamline the sale&mdash;and to provide added assurance from beginning to end.</p>
+<p>Plus, when you sell us your car, you can rest assured that you&rsquo;re getting a fair deal. We examine every facet of your sedan, truck, SUV, or van to ensure the best possible offer. We want to make sure you leave our dealership with the cash you deserve.</p></div>
+
+      &nbsp;
+    </div>
+  </div>
+  <!-- Section 5 | Image right -->
+
+  <!-- Section 6 | Image left -->
+  <div class="SC-Full_Flex_Container">
+    <div class="SC-Half_Flex_Section SC-LightGrey_BG SC-Half_Flex_Section_Image" style="background: url('________LINK________'); background-position: center center; background-repeat: no-repeat; background-size: cover; background-attachment: scroll;"></div>
+
+    <div class="SC-Half_Flex_Section SC-LightGrey_BG">
+      <div class="SC-Custom_H2">Quicker, Easier Sale</div>
+      <div class="SC-Underline_Primary"></div>
+      <div class="SC-P_Text"><p>Whereas selling your vehicle to a private party can take anywhere from days to weeks, selling to our dealership allows you to sell your vehicle in one fell swoop. This is the best option for drivers looking for a quick turnaround without having to second-guess any part of the process.</p>
+<p>Additionally, selling your car through our dealership avoids any unwanted communication with scammers or unreliable car buyers. Our staff maintains expert knowledge to keep you afloat with all the information you need to make a transaction that adds to your peace of mind.</p></div>
+
+      &nbsp;
+    </div>
+  </div>
+  <!-- Section 6 | Image left -->
+
+
+  <!-- Section 7 | /contact-us/ -->
+  <div class="SC-Full_Section_Container SC-Primary_BG SC_clearfix SC-Text_Center">
+    <div class="SC-Custom_H2">We Make Selling Your Car Easy</div>
+    <div class="SC-Underline_Grey"></div>
+    <div class="SC-Custom_H5"><p>If you&rsquo;re ready to inch closer to the finish line, consider us your partners in selling your sedan, truck, SUV, or van. We&rsquo;re always available to provide you with assurance, whether that&rsquo;s clarifying paperwork you need to bring with you or just additional information on how we appraise vehicles.</p>
+<p>Contact us online or over the phone to learn more about who to sell your car to. We&rsquo;ll work with you hand-in-hand from the get-go to ensure you have all you need to succeed!</p></div>
+    &nbsp;
+  </div>
+  <style> .SC-Primary_BG .SC-Custom_H5 a { text-decoration: underline!important; color: #fff!important; } </style>
+  <!-- Section 7 | /contact-us/ --> 
+
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+
+
+ <!--------------------------------- END --------------------------------------------> 
+ <!--------------------------------- END -------------------------------------------->  
+ <!--------------------------------- END -------------------------------------------->  
+
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+    
+    
+	  
+<!---------- END HERE ---------->
+
+
+
+
+  <!-- Section 111 | Image right -->
+  <div class="SC-Full_Flex_Container">
+    <div class="SC-Half_Flex_Section SC-Primary_BG SC-Half_Flex_Section_Image SC-Flex_Mobile_Flip_1" style="background: url('________LINK________'); background-position: center center; background-repeat: no-repeat; background-size: cover; background-attachment: scroll;"></div>
+    <div class="SC-Half_Flex_Section SC-Primary_BG SC-Flex_Mobile_Flip_2">
+      <div class="SC-Custom_H2">__________TITLE__________</div>
+      <div class="SC-Underline_White"></div>
+      <div class="SC-P_Text">__________PARAGRAPH__________</div>
+
+      &nbsp;
+    </div>
+  </div>
+  <!-- Section 111 | Image right -->
+
+  <!-- Section 222 | Image left -->
+  <div class="SC-Full_Flex_Container">
+    <div class="SC-Half_Flex_Section SC-LightGrey_BG SC-Half_Flex_Section_Image" style="background: url('________LINK________'); background-position: center center; background-repeat: no-repeat; background-size: cover; background-attachment: scroll;"></div>
+    <div class="SC-Half_Flex_Section SC-LightGrey_BG">
+      <div class="SC-Custom_H2">__________TITLE__________</div>
+      <div class="SC-Underline_Primary"></div>
+      <div class="SC-P_Text">__________PARAGRAPH__________</div>
+
+      &nbsp;
+    </div>
+  </div>
+  <!-- Section 222 | Image left -->
+
+<!-- Section 000 | Image Right -->
+<div class="SC-Full_Section_Container SC-White_BG SC_clearfix">
+		<div class="SC-2_Thirds_Width_Section SC-Vertical_Center">
+			<div class="SC-Custom_H2">__________TITLE__________</div>
+			<div class="SC-Underline_Primary"></div>
+			<div class="SC-P_Text">__________PARAGRAPH__________</div>
+		</div>
+      <div class="SC-1_Third_Width_Section SC-Vertical_Center">
+			  <img src="https://autorepo.streamcompanies.com/wp-content/uploads/2023/06/placeholder.jpg" class="SC-Responsive_Image_800" alt="ALT TEXT HERE">
+		  </div>
+	
+</div>
+<!-- Section 000 | Image Right -->
